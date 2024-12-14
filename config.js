@@ -17,7 +17,7 @@ module.exports = {
      * owner details and parameters
      */
     ownername: process.env.OWNER_NUMBER || process.env.Owner_Name || "死_ＮＥＭＥＳＩＸ",
-    ownernumber: process.env.Owner_Number || "2348977825595",
+    ownernumber: process.env.Owner_Number || "2348077825595",
     instagramId: process.env.Insta || "3.69_pika",
 
     /**
